@@ -1,0 +1,11 @@
+need,2,jug of milk
+need,3,loaf of bread
+list
+buy,2,loaf of bread
+need,4,loaf of bread
+buy,3,jug of milk
+buy,1,stick of butter
+buy,1,loaf of bread
+sort,need
+sort,buy
+list
